@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yao.lib_advertisement">
+
+    <application android:theme="@style/Theme.ComponentDemo">
+        <activity android:name=".Demo1NormalActivity">
+        </activity>
+        <activity android:name=".Demo2ARouter1Activity">
+        </activity>
+        <activity android:name=".Demo2ARouter2Activity">
+        </activity>
+        <activity android:name=".Demo3DaggerActivity">
+        </activity>
+        <activity android:name=".Demo4EventBusActivity">
+        </activity>
+    </application>
+
+</manifest>

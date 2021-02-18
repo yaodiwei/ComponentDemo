@@ -1,0 +1,6 @@
+include ':lib_base'
+include ':lib_reader'
+include ':lib_user'
+include ':lib_advertisement'
+include ':app'
+rootProject.name = "ComponentDemo"
