@@ -1,3 +1,5 @@
+include ':module_bookshelf_export'
+include ':module_bookshelf'
 include ':lib_base'
 include ':lib_reader'
 include ':lib_user'
